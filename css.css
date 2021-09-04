@@ -1,0 +1,31 @@
+
+h1{
+color: red;
+text-align:center;
+}
+
+
+table{
+border-collapse:collapse;
+background-color:#ff650005;
+box-shadow:0 10px 20px 0 rgba(0,0,0,.03);
+border-radious:10px;
+margin:auto;
+border-width:3px;
+border-style:solid;
+border-color:black;}
+
+
+th,td{
+border:2px solid black;
+padding:8px 30px;
+text-align:center;
+color:blue;
+}
+th{
+text-transformation:uppercase;
+font_weight:500;
+font-size:500}
+
+td{
+font-size: 13px;}
